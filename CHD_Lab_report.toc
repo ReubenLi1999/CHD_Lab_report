@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}实验原理}{1}{section.1}% 
+\contentsline {subsection}{\numberline {1.1}纬度校正}{1}{subsection.1.1}% 
+\contentsline {subsection}{\numberline {1.2}地形改正}{1}{subsection.1.2}% 
+\contentsline {subsubsection}{\numberline {1.2.1}地形影响因素的理论计算}{1}{subsubsection.1.2.1}% 
+\contentsline {subsubsection}{\numberline {1.2.2}地形影响因素的近似计算}{2}{subsubsection.1.2.2}% 
+\contentsline {subsubsection}{\numberline {1.2.3}地改范围}{4}{subsubsection.1.2.3}% 
+\contentsline {subsection}{\numberline {1.3}中间层改正}{4}{subsection.1.3}% 
+\contentsline {subsection}{\numberline {1.4}高度改正}{5}{subsection.1.4}% 
+\contentsline {section}{\numberline {2}参数}{6}{section.2}% 
+\contentsline {section}{\numberline {3}实验结果}{7}{section.3}% 
+\contentsline {section}{附录 \numberline {A}源代码}{9}{附录.a.A}% 
+\contentsfinish 
